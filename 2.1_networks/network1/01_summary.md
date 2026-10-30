@@ -5,4 +5,5 @@ Describe the purpose of this activity in your own words:
 
 _Write your summary here…_
 
-To gain hands-on experience using Cisco Packet Tracer to build, configure, and test network topologies.
+The goal is to gain hands-on experience using Cisco Packet Tracer to build, configure, and test network topologies.
+The networks that I will be creating is a basic local area network (LAN) setup connecting end devices (like PCs) through intermediary devices (like switches/routers) to test connectivity.
